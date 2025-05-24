@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "RKQWjCtPPus=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\edcra\\source\\repos\\PhoenixLauncher\\PhoenixLauncher\\PhoenixLauncher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edcra\\.nuget\\packages\\cmllib.core\\4.0.5\\cmllib.core.4.0.5.nupkg.sha512",
+    "C:\\Users\\edcra\\.nuget\\packages\\cmllib.core.commons\\4.0.0\\cmllib.core.commons.4.0.0.nupkg.sha512",
+    "C:\\Users\\edcra\\.nuget\\packages\\lzma-sdk\\19.0.0\\lzma-sdk.19.0.0.nupkg.sha512",
+    "C:\\Users\\edcra\\.nuget\\packages\\sharpziplib\\1.4.2\\sharpziplib.1.4.2.nupkg.sha512",
+    "C:\\Users\\edcra\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512",
+    "C:\\Users\\edcra\\.nuget\\packages\\system.threading.tasks.dataflow\\8.0.1\\system.threading.tasks.dataflow.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

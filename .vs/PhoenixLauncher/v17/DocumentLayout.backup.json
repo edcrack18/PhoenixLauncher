@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edcra\\source\\repos\\PhoenixLauncher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3FAB24-CE04-4813-AED7-6762490EA36D}|PhoenixLauncher\\PhoenixLauncher.csproj|c:\\users\\edcra\\source\\repos\\phoenixlauncher\\phoenixlauncher\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E3FAB24-CE04-4813-AED7-6762490EA36D}|PhoenixLauncher\\PhoenixLauncher.csproj|solutionrelative:phoenixlauncher\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3FAB24-CE04-4813-AED7-6762490EA36D}|PhoenixLauncher\\PhoenixLauncher.csproj|c:\\users\\edcra\\source\\repos\\phoenixlauncher\\phoenixlauncher\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E3FAB24-CE04-4813-AED7-6762490EA36D}|PhoenixLauncher\\PhoenixLauncher.csproj|solutionrelative:phoenixlauncher\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\edcra\\source\\repos\\PhoenixLauncher\\PhoenixLauncher\\Form1.cs",
+              "RelativeDocumentMoniker": "PhoenixLauncher\\Form1.cs",
+              "ToolTip": "C:\\Users\\edcra\\source\\repos\\PhoenixLauncher\\PhoenixLauncher\\Form1.cs",
+              "RelativeToolTip": "PhoenixLauncher\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T02:42:19.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\edcra\\source\\repos\\PhoenixLauncher\\PhoenixLauncher\\Form1.cs",
+              "RelativeDocumentMoniker": "PhoenixLauncher\\Form1.cs",
+              "ToolTip": "C:\\Users\\edcra\\source\\repos\\PhoenixLauncher\\PhoenixLauncher\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PhoenixLauncher\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T02:41:57.193Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
